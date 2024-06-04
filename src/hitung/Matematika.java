@@ -13,4 +13,16 @@ public class Matematika {
     public double setPenjumlahan(){
         return bill1 + bill2;
     }
+    //Membuat MethodPengurangan
+    public double setPengurangan(){
+        return bill1 - bill2;
+    }
+    //Membuat MethodPerkalian
+    public double setPerkalian(){
+        return bill1 * bill2;
+    }
+    //Membuat MethodPembagian
+    public double setPembagian(){
+        return bill1 / bill2;
+    }
 }
